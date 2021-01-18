@@ -6,6 +6,6 @@
 
 **Name** : Wannamongkol Sriwan
 
->  *king mongkut's institute of technology ladkrabang*
+>  [*king mongkut's institute of technology ladkrabang*](https://www.kmitl.ac.th)
 
-`print("Hello world")`
+`print("Hello Ladkrabang")`
